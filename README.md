@@ -20,7 +20,7 @@ A: Yes. Please submit a separate proposal for each project. The video submission
 ### Q: Do you have any past examples of portfolio videos that I could view as a reference?
 A: This is the first year of this track, so there are no past examples. 
 
-#### Q: Is there a stipend of any kind provided for travel to and from the event for selected proposals?
+### Q: Is there a stipend of any kind provided for travel to and from the event for selected proposals?
 A: Currently, the Creative AI track does not have funding to support the participants. If this information changes in the future, we will share that on our website. 
 
 ### Q: I see that an alternate format for presenting the video is a recorded slideshow format. Does this have to be an in-person recording or can it be a screen-recorded slideshow with a voiceover?
