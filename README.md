@@ -12,7 +12,7 @@ For any questions, you may reach us at [neuripscreativeai@gmail.com](mailto:neur
 # FAQ
 
 #### Q: Could you elaborate more on the theme "Celebrating Diversity"?
-A: We generally mean the diversity of our community, e.g., in the context of geographic, cultural, or technical diversity. We believe that such diversity encourages interdisciplinary collaboration and brings about unique creativity in the research field.As in a paper review, the relevance to the theme will be used during the selection process.  
+A: We generally mean the diversity of our community, e.g., in the context of geographic, cultural, or technical diversity. We believe that such diversity encourages interdisciplinary collaboration and brings about unique creativity in the research field. As in a paper review, the relevance to the theme will be used during the selection process.  
  
 #### Q: Can I submit 2 projects? Would I need a separate 3 minute presentation for each, or should this media include both as well as other relevant projects in my portfolio? 
 A: Yes. Please submit a separate proposal for each project. The video submission of your prior work relevant to the proposed project should be submitted to demonstrate the strength of the proposed work. 
