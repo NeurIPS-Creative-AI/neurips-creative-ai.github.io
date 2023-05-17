@@ -3,11 +3,11 @@ We are happy to announce the NeurIPS2023 Creative AI Track. This track will invi
 
 Proposals are due by June 15, 2023.
 
-More details in the open call here: https://neurips.cc/Conferences/2023/CallForCreativeAI
+More details in the [open call here.](https://neurips.cc/Conferences/2023/CallForCreativeAI)
 
 To stay up-to-date with all future announcements, please [join our mailing list.](https://neuripscreativeai.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)
 
-For any questions, you may reach us at neuripscreativeai@gmail.com.
+For any questions, you may reach us at [neuripscreativeai@gmail.com](mailto:neuripscreativeai@gmail.com).
 
 # FAQ
 
