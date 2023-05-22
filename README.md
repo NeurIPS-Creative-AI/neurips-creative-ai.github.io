@@ -9,27 +9,28 @@ To stay up-to-date with all future announcements, please [join our mailing list.
 
 For any questions, you may reach us at [neuripscreativeai@gmail.com](mailto:neuripscreativeai@gmail.com).
 
+
 # Call for proposals
 ### Theme: Celebrating Diversity
 
 NeurIPS has a tradition of featuring the artistic skills of machine learning researchers, which was evident in events such as the NeurIPS workshop banquet summaries in the 1990s and 2000s, as well as the parties that showcased bands of machine learning researchers and art exhibitions. Given the recent surge in the use of machine learning generative models for creative art, it is an opportune time to revive this tradition and provide researchers with a platform to exhibit their creative tools and artwork that leverages machine learning technology.
 
-For the first time this year, we are opening up *various locations throughout the conference venue to showcase NeurIPS art.* This will include hallway exhibits, designated spaces in the exhibit hall, screen time during breaks in the main conference room, as well as dedicated time and space during the reception and conference social events. We welcome all forms of art, including visual, language, musical, and performing arts, in order to celebrate the diversity of our community across gender, ethnicity, culture, affinity, and age. We are calling for proposals from ML research teams who are interested in showcasing their research work in the form of visual art such as pictures, paintings, media art, movies, sculptures, and installations, literary art such as short stories and poems, or performing arts such as staged theatrical work, dance, performed music, and happenings. All of which must be the result of applying machine learning in creative ways.
+For the first time this year, we are opening up **various locations throughout the conference venue to showcase NeurIPS art.** This will include hallway exhibits, designated spaces in the exhibit hall, screen time during breaks in the main conference room, as well as dedicated time and space during the reception and conference social events. We welcome all forms of art, including visual, language, musical, and performing arts, in order to celebrate the diversity of our community across gender, ethnicity, culture, affinity, and age. We are calling for proposals from ML research teams who are interested in showcasing their research work in the form of visual art such as pictures, paintings, media art, movies, sculptures, and installations, literary art such as short stories and poems, or performing arts such as staged theatrical work, dance, performed music, and happenings. All of which must be the result of applying machine learning in creative ways.
 
 We also encourage on-line events taking place before and/or during NeurIPS.
 
 
-# Instructions for Submission:
+## Instructions for Submission
 
-*The proposers should prepare a 3-minute video or recorded slide show presentation to be linked to the proposal.* This video should present the artists’ portfolio and give an impression of what the exhibit will show. It will be treated confidentially as the rest of the proposal by the reviewers. 
+**The proposers should prepare a 3-minute video or recorded slide show presentation to be linked to the proposal.** This video should present the artists’ portfolio and give an impression of what the exhibit will show. It will be treated confidentially as the rest of the proposal by the reviewers. 
 
-Proposals on this year’s theme *“Celebrating Diversity”*, are due on June 15, 2023.
+Proposals on this year’s theme **“Celebrating Diversity”**, are due on June 15, 2023.
 
 Submissions are made by filling out this [FORM](https://docs.google.com/forms/d/1Fw0XUJ84R6kP4QigiI9-2boycRqpzQCiRfbNRda37SY/edit).
 
 Accepted exhibitors will have the opportunity to present the technical aspects of their work as a poster (poster boards made available upon request), and have the final version of their proposal and video linked from the virtual exhibition webpage (after taking into account the comments of the reviewers). In addition, they are encouraged to submit papers to the NeurIPS conference. The proposers can optionally volunteer to submit a joint workshop proposal. We will put them in touch with one-another.
 
-# Timeline:
+## Timeline
 - June 15 Deadline of proposal submission
 - Jul 15 Notification of acceptance
 - Nov 15 Deadline to submit final videos
@@ -62,7 +63,7 @@ A: This is not a strict requirement but please do not exceed 4 minutes.
 # Contact
 Email [creative-ai-chairs@neurips.cc](mailto:creative-ai-chairs@neurips.cc) and/or [neuripscreativeai@gmail.com](mailto:neuripscreativeai@gmail.com).
 
-Chairs: 
+## Chairs
 - Isabelle Guyon (Google)
 - Jean Oh (CMU)
 
