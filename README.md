@@ -1,7 +1,7 @@
 # NeurIPS2023 Creative AI Track
 We are happy to announce the NeurIPS2023 Creative AI Track. This track will invite ML researchers to showcase their work during the conference in the form of visual, language, musical, and performing arts.
 
-Proposals are due by June 15, 2023.
+Proposals are due by **June 15, 2023.**
 
 More details in the [open call here.](https://neurips.cc/Conferences/2023/CallForCreativeAI)
 
