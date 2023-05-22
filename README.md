@@ -1,9 +1,7 @@
 # NeurIPS2023 Creative AI Track
 We are happy to announce the NeurIPS2023 Creative AI Track. This track will invite ML researchers to showcase their work during the conference in the form of visual, language, musical, and performing arts.
 
-Proposals are due by **June 15, 2023.**
-
-More details in the [open call here.](https://neurips.cc/Conferences/2023/CallForCreativeAI)
+Proposals are due by **June 15, 2023.** 
 
 To stay up-to-date with all future announcements, please [join our mailing list.](https://neuripscreativeai.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)
 
@@ -11,6 +9,8 @@ For any questions, you may reach us at [neuripscreativeai@gmail.com](mailto:neur
 
 
 # Call for proposals
+Note: The information below is the same as in [NeurIPS creative AI open call](https://neurips.cc/Conferences/2023/CallForCreativeAI).
+
 ### Theme: Celebrating Diversity
 
 NeurIPS has a tradition of featuring the artistic skills of machine learning researchers, which was evident in events such as the NeurIPS workshop banquet summaries in the 1990s and 2000s, as well as the parties that showcased bands of machine learning researchers and art exhibitions. Given the recent surge in the use of machine learning generative models for creative art, it is an opportune time to revive this tradition and provide researchers with a platform to exhibit their creative tools and artwork that leverages machine learning technology.
