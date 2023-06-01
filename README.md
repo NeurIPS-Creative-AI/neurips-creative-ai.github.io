@@ -43,21 +43,33 @@ Accepted exhibitors will have the opportunity to present the technical aspects o
 
 #### Q: Could you elaborate more on the theme "Celebrating Diversity"?
 A: We generally mean the diversity of our community, e.g., in the context of geographic, cultural, or technical diversity. We believe that such diversity encourages interdisciplinary collaboration and brings about unique creativity in the research field. As in a paper review, the relevance to the theme will be used during the selection process.  
- 
-#### Q: Can I submit 2 projects? Would I need a separate 3 minute presentation for each, or should this media include both as well as other relevant projects in my portfolio? 
-A: Yes. Please submit a separate proposal for each project. The video submission of your prior work relevant to the proposed project should be submitted to demonstrate the strength of the proposed work. 
- 
-#### Q: Do you have any past examples of portfolio videos that I could view as a reference?
-A: This is the first year of this track, so there are no past examples. 
 
 #### Q: Is there a stipend of any kind provided for travel to and from the event for selected proposals?
 A: Currently, the Creative AI track does not have funding to support the participants. If this information changes in the future, we will share that on our website. 
+
+#### Q: Are we allowed to submit papers for our work in other conferences?
+A: Yes, this year is a trial run and we do not impose that people only submit at NeurIPS. Since we are only accepting artworks this year, it is OK even if your paper has been submitted elsewhere. This may change in years to come. 
+ 
+#### Q: Can I submit 2 projects? Would I need a separate 3 minute presentation for each, or should this media include both as well as other relevant projects in my portfolio? 
+A: Yes. Please submit a separate proposal for each project. The video submission of your prior work relevant to the proposed project should be submitted to demonstrate the strength of the proposed work. 
+
+#### Q: We are looking for opportunities for our work to be published. Does the Creative AI track include some form of publication or citation for our work to be referenced in the future?
+A: No, this track will not have a formal publication. You will have the opportunity of presenting a poster.
+
+#### Q: Do we need to include technical details about our work in the proposal (similar to a demo track paper ) ?
+A: Technical details in the proposal would be a plus. This is indeed a new version of a demo track. You can accompany your demo with a poster to explain your techniques. Posters will be displayed on the NeurIPS website.
+ 
+#### Q: Do you have any past examples of portfolio videos that I could view as a reference?
+A: This is the first year of this track, so there are no past examples. 
 
 #### Q: I see that an alternate format for presenting the video is a recorded slideshow format. Does this have to be an in-person recording or can it be a screen-recorded slideshow with a voiceover?
 A: Either way is fine.
 
 #### Q: Is the 3 minute video duration a minimum requirement, or a cutoff? 
 A: This is not a strict requirement but please do not exceed 4 minutes.
+
+#### Q: Are web-based demonstrations showcasing poetry generation appropriate for this track ?
+A: We welcome on-line demonstrations, particularly if they engage the audience in some way. This could take place before and during the event. However, we also would like to have something interesting and engaging during the event. You could make use of a space we will reserve to you to show your demonstration on-site on a large screen for instance. Think of a way of making it engaging and fun for the audience. Maybe have the audience contribute to the generation and print poems that can take away with them.
 
 
 # Contact
