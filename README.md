@@ -58,7 +58,10 @@ A: No, this track will not have a formal publication. You will have the opportun
 
 #### Q: Do we need to include technical details about our work in the proposal (similar to a demo track paper ) ?
 A: Technical details in the proposal would be a plus. This is indeed a new version of a demo track. You can accompany your demo with a poster to explain your techniques. Posters will be displayed on the NeurIPS website.
- 
+
+#### Q: What we should include in the 3-minute video?
+A: You are free to present anything you want to convince the jury that what you will show will be exciting and fulfill the review criteria indicated on our website.
+
 #### Q: Do you have any past examples of portfolio videos that I could view as a reference?
 A: This is the first year of this track, so there are no past examples. 
 
@@ -68,8 +71,14 @@ A: Either way is fine.
 #### Q: Is the 3 minute video duration a minimum requirement, or a cutoff? 
 A: This is not a strict requirement but please do not exceed 4 minutes.
 
-#### Q: Are web-based demonstrations showcasing poetry generation appropriate for this track ?
+#### Q: Are web-based demonstrations appropriate for this track ?
 A: We welcome on-line demonstrations, particularly if they engage the audience in some way. This could take place before and during the event. However, we also would like to have something interesting and engaging during the event. You could make use of a space we will reserve to you to show your demonstration on-site on a large screen for instance. Think of a way of making it engaging and fun for the audience. Maybe have the audience contribute to the generation and print poems that can take away with them.
+
+#### Q: Is the review going to be double-blind or can we include our personal information?
+A: This is single blind. 
+
+#### Q: I want to use existing generative AI tools and wonder if there is a way to accelerate the timeline of getting approval to use them (closed beta, waitlist, etc).
+A: We understand your problem. However, this is part of the research we expect the participants to conduct. Hopefully the track will reveal which tools exist, their availability, possible gaps and hurdles that will need to be addressed in the future.
 
 
 # Contact
