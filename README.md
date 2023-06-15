@@ -1,7 +1,7 @@
 # NeurIPS2023 Creative AI Track
 We are happy to announce the NeurIPS2023 Creative AI Track. This track will invite ML researchers to showcase their work during the conference in the form of visual, language, musical, and performing arts.
 
-Proposals are due by **June 15, 2023.** 
+Proposals are due by **June 15, 2023, 23:59 anywhere on Earth**. 
 
 To stay up-to-date with all future announcements, please [join our mailing list.](https://neuripscreativeai.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)
 
@@ -41,6 +41,9 @@ Accepted exhibitors will have the opportunity to present the technical aspects o
 
 # FAQ
 
+#### Q: What timezone is the deadline due date?
+A: The deadline is for 23:59, anywhere on Earth.
+
 #### Q: Could you elaborate more on the theme "Celebrating Diversity"?
 A: We generally mean the diversity of our community, e.g., in the context of geographic, cultural, or technical diversity. We believe that such diversity encourages interdisciplinary collaboration and brings about unique creativity in the research field. As in a paper review, the relevance to the theme will be used during the selection process.  
 
@@ -62,6 +65,12 @@ A: Technical details in the proposal would be a plus. This is indeed a new versi
 #### Q: What we should include in the 3-minute video?
 A: You are free to present anything you want to convince the jury that what you will show will be exciting and fulfill the review criteria indicated on our website.
 
+#### Q: I noticed that the video should include the artist portfolio. As an artist who works across various mediums and technologies, should I include my previous works that do not involve AI?
+A: It is up to you what you would like to present in your video. Ideally it should be representative of what you will present at the conference, or if you do not have yet appropriate material ready, show related work that can convince the jury of your skills and qualifications to carry out the proposed project.
+
+#### Q: I have other collaborators from different fields and we were wondering which type of portfolio we should submit. I am a AI researcher and artist, one of my collaborators is an AI researcher and another one is a photographer. I could keep only my portfolio, since my previous AI-Art exhibitions are more related to what we are proposing in this context. However, since we are a group of three, we were wondering whether we should also include the portfolio of everyone on the team.
+A: It is up to you. The video/slide show is meant to showcase work that you did that is representative of what you will show and five to the committee confidence in your competence to realize your project (if not finished yet).
+
 #### Q: Do you have any past examples of portfolio videos that I could view as a reference?
 A: This is the first year of this track, so there are no past examples. 
 
@@ -75,7 +84,7 @@ A: This is not a strict requirement but please do not exceed 4 minutes.
 A: We welcome on-line demonstrations, particularly if they engage the audience in some way. This could take place before and during the event. However, we also would like to have something interesting and engaging during the event. You could make use of a space we will reserve to you to show your demonstration on-site on a large screen for instance. Think of a way of making it engaging and fun for the audience. Maybe have the audience contribute to the generation and print poems that can take away with them.
 
 #### Q: Is the review going to be double-blind or can we include our personal information?
-A: This is single blind. 
+A: This is single blind. For example, the proposal video does not need to be anonymized and it is fine to upload it to a personal account on Youtube, for example.
 
 #### Q: I want to use existing generative AI tools and wonder if there is a way to accelerate the timeline of getting approval to use them (closed beta, waitlist, etc).
 A: We understand your problem. However, this is part of the research we expect the participants to conduct. Hopefully the track will reveal which tools exist, their availability, possible gaps and hurdles that will need to be addressed in the future.
