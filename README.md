@@ -32,7 +32,7 @@ Accepted exhibitors will have the opportunity to present the technical aspects o
 
 ## Timeline
 - June 15 Deadline of proposal submission
-- Jul 15 Notification of acceptance
+- Aug 31 Notification of acceptance. (The reviewing process is taking longer than expected and we will send out the notification by August 31st. We apologize for the inconvenience.) 
 - Nov 15 Deadline to submit final videos
 - TBD Set up booth
 - Dec 10 Conference Expo and affinity events
