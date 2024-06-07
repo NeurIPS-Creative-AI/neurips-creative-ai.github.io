@@ -3,17 +3,17 @@
 
 The most recent year's NeurIPS Creative AI Track info is here:
 
-* **[NeurIPS 2024 Creative AI Track](https://neurips-creative-ai.github.io/2024/)**
+* **[NeurIPS 2024 Creative AI Track](https://neurips-creative-ai.github.io/2024/)**(Vancouver, Canada)
 
 ## Previous version
 
 NeurIPS Creative AI Track is a joint effort that combines both previous years' NeurIPS Creative AI Track:
 
-* **[NeurIPS 2023 Creative AI Track](https://neurips-creative-ai.github.io/2023/)**
+* **[NeurIPS 2023 Creative AI Track](https://neurips-creative-ai.github.io/2023/)**(New Orleans, USA)
   
 and NeurIPS Workshop Machine Learning for Creativity and Design:
 
-* **[NeurIPS 2023 workshop Machine Learning for Creativity and Design](https://neuripscreativityworkshop.github.io/2023/)** (New Orlean, LA, USA)
+* **[NeurIPS 2023 workshop Machine Learning for Creativity and Design](https://neuripscreativityworkshop.github.io/2023/)** (New Orleans, USA)
 * **[NeurIPS 2022 workshop Machine Learning for Creativity and Design](https://neuripscreativityworkshop.github.io/2022/)** (Virtual)
 * **[NeurIPS 2021 workshop Machine Learning for Creativity and Design](https://neuripscreativityworkshop.github.io/2021)** (Virtual)
 * **[NeurIPS 2020 workshop Machine Learning for Creativity and Design](https://neurips2020creativity.github.io/)** (Virtual)
