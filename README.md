@@ -1,5 +1,9 @@
 # NeurIPS Creative AI Track
 
+The current year's NeurIPS Creative AI Track info is here: 
+
+**[NeurIPS 2025 Creative AI Track](https://neurips-creative-ai.github.io/2025/)** (San Diego, USA)
+
 ## Previous versions
 
 NeurIPS Creative AI Track is a joint effort of many people. Previous versions are listed here.
